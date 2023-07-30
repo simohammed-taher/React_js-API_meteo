@@ -14,8 +14,8 @@ A simple weather application built with React.js that fetches weather data from 
 
 ## Demo 🎞
 
-![1](https://github.com/simohammed-taher/React_js-API_meteo/assets/100471051/7fddf959-a286-4cef-8f48-1a491cb034aa)
-![2](https://github.com/simohammed-taher/React_js-API_meteo/assets/100471051/4b7b4fa8-a043-4c1d-a591-ebdb4707fa48)
+![1](https://github.com/simohammed-taher/React_js-API_meteo/assets/100471051/cdcdbc85-308d-45de-b92e-0d017972c8a4)
+![2](https://github.com/simohammed-taher/React_js-API_meteo/assets/100471051/f540f916-beea-4dee-af58-a36c5dac979f)
 
 ## Features 📖
 
